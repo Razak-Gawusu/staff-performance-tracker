@@ -1,0 +1,20 @@
+Technical competency {
+    title,
+    details,
+    techStack,
+    framework,
+    assessements,
+    stage: fk
+}
+
+stage {
+    level,
+    rank,
+    points
+}
+
+User {
+    name,
+    email,
+    stage: fk
+}

@@ -1,0 +1,4 @@
+{
+    "name": "staff performance tracker",
+    "mongodb_uri": "mongodb://localhost:27017/performance_tracker"
+}

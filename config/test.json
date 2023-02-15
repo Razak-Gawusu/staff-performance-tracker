@@ -1,0 +1,4 @@
+{
+    "jwt_secret": "12345",
+    "mongodb_uri": "mongodb://localhost:27017/performance_tracker_test"
+}
